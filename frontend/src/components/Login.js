@@ -5,7 +5,7 @@ const LoginPage = () =>{
         <div>
             <h1>Login Page</h1>
             <form action="">
-                <label htmlFor="">First Name</label>
+                <label htmlFor="">Full Name</label>
                 <input type="text" />
                 <label htmlFor="">Last Name</label>
                 <input type="text" />
