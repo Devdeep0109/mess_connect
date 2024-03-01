@@ -5,7 +5,7 @@ const RegisterPage = () =>{
         <div>
             <h1>Register Page</h1>
             <form action="">
-                <label htmlFor="">Full Name</label>
+                <label htmlFor="">First Name</label>
                 <input type="text" />
                 <label htmlFor="">Last Name</label>
                 <input type="text" />
